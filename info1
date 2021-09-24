@@ -2,3 +2,5 @@
 Did git remote command here i.e., in git preparation,didn't clone the url.
 let's see what happens.
 So,i fetched and merged this file from github to local repository.
+And now made a new branch by the name madame in local repository.
+will push this new branch to remote/github.
